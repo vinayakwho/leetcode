@@ -1,12 +1,9 @@
-#include <algorithm>
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        // If prices is empty, return 0 profit
         if (prices.empty()) {
-            return 0;
+            return 0; // If prices is empty, return 0 profit
         }
-
         // Initialize max_profit to 0 and min_price to the first price
         int max_profit = 0;
         int min_price = prices[0];
@@ -25,7 +22,6 @@ public:
         return max_profit;
     }
 };
-
         // FIRST FIND MIN PRICE FROM THE ARRAY
         // THEN ITERATE FROM THAT MIN POSITION TO THE LAST INDEX OF AN ARRAY
         // THEN FIND THE MAX ELEMENT FROM THAT RANGE
