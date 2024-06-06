@@ -1,3 +1,4 @@
+#include<algorithm>
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
@@ -27,6 +28,7 @@ public:
         // THEN FIND THE MAX ELEMENT FROM THAT RANGE
         // THEN FIND THE PROFIT FROM BY SUBSTRACTING MIN ELEMENT FROM MAX
         // ELEMENT
+
         // int max_profit = 0;
         // auto buy = min_element(prices.begin(), prices.end());
         // for (auto i = buy + 1; i < prices.end(); i++) {
