@@ -22,20 +22,4 @@ public:
         return max_profit;
     }
 };
-        // FIRST FIND MIN PRICE FROM THE ARRAY
-        // THEN ITERATE FROM THAT MIN POSITION TO THE LAST INDEX OF AN ARRAY
-        // THEN FIND THE MAX ELEMENT FROM THAT RANGE
-        // THEN FIND THE PROFIT FROM BY SUBSTRACTING MIN ELEMENT FROM MAX
-        // ELEMENT
-
-        // int max_profit = 0;
-        // auto buy = min_element(prices.begin(), prices.end());
-        // for (auto i = buy + 1; i < prices.end(); i++) {
-        //     int profit = *i - *buy; // Calculate profit correctly
-        //     if (profit > max_profit) {
-        //         max_profit = profit;
-        //     }
-        // }
-//         return max_profit;
-//     }
-// };
+       
