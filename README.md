@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vinayakwho/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vinayakwho/leetcode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vinayakwho/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vinayakwho/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vinayakwho/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
